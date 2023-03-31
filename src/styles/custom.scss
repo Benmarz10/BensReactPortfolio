@@ -2,14 +2,14 @@ html {
   margin-bottom: 65px;
 }
 
-$body-bg: #4D7DA8;
-$body-color: #1f271b;
+$body-bg: #ffffff;
+$body-color: #000000;
 
-$primary:       #568259;
-$info:          #8ECAE6;
-$warning:       #FFB703;
+$primary:       #ffcf00;
+$info:          #fefefe;
+$warning:       #03ff07;
 $light:         #8ECAE6;
-$dark:          #023047;
+$dark:          #ffffff;
 $danger:        #FB8500;
 
 @import "~bootstrap/scss/bootstrap";

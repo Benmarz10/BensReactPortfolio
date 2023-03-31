@@ -1,4 +1,4 @@
-//will need a picutre
+//will need a picutre, actual text about yourself
 
 import React from "react";
 import Card from "react-bootstrap/Card";
@@ -12,7 +12,7 @@ function AboutMe() {
       <Row>
         <Col />
         <Card>
-          <Card.Body>
+          <Card.Body className="primary">
             <Card.Title>About Me</Card.Title>
             <Card.Text>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem

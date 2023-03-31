@@ -46,7 +46,7 @@ function Contact() {
       <Form>
         <Form.Group className="mb-3" controlId="formEmail">
           <Form.Label>Email</Form.Label>
-          <Form.Control
+          <Form.Control 
             type="email"
             placeholder="Enter email"
             as="textarea"

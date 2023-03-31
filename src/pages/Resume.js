@@ -1,5 +1,5 @@
 //will need a downloadable resume btn
-
+//styling
 function Resume() {
   return (
     <div>
