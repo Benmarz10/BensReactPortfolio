@@ -1,8 +1,11 @@
+//display projects here, maybe in a modal
+
+
 function Portfolio() {
-  return(
+  return (
     <div>
       <h2>Portfolio</h2>
     </div>
-  )
+  );
 }
-export default Portfolio
+export default Portfolio;

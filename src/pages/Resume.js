@@ -1,8 +1,10 @@
+//will need a downloadable resume btn
+
 function Resume() {
-  return(
+  return (
     <div>
       <h2>Resume</h2>
     </div>
-  )
+  );
 }
-export default Resume
+export default Resume;

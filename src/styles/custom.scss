@@ -1,0 +1,15 @@
+html {
+  margin-bottom: 65px;
+}
+
+$body-bg: #4D7DA8;
+$body-color: #1f271b;
+
+$primary:       #568259;
+$info:          #8ECAE6;
+$warning:       #FFB703;
+$light:         #8ECAE6;
+$dark:          #023047;
+$danger:        #FB8500;
+
+@import "~bootstrap/scss/bootstrap";
