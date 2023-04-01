@@ -1,10 +1,19 @@
-//will need a downloadable resume btn
-//styling
+
+import React from "react";
+import Container from "react-bootstrap/Container";
+import Button from "react-bootstrap/Button";
+
 function Resume() {
   return (
-    <div>
-      <h2>Resume</h2>
-    </div>
+    <Container>
+      <Button
+        href="Benjamin Marz, Resume.pdf"
+        download="Benjamin Marz, Resume.pdf"
+      >
+        Download Resume
+      </Button>
+    
+    </Container>
   );
 }
 export default Resume;

@@ -15,10 +15,7 @@ function AboutMe() {
           <Card.Body className="primary">
             <Card.Title>About Me</Card.Title>
             <Card.Text>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-              consequuntur rerum, unde voluptatibus facilis laboriosam omnis
-              incidunt error voluptatem aliquam rem facere enim totam?
-              Praesentium tempore accusamus aliquam cum ipsa.
+              I live in Saint Paul, excited to learn and grow as a developer.
             </Card.Text>
           </Card.Body>
         </Card>
