@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Benmarz10/BensReactPortfolio/static/css/main.6c9c27d4.css",
+    "main.js": "/Benmarz10/BensReactPortfolio/static/js/main.5fdaa12b.js",
+    "index.html": "/Benmarz10/BensReactPortfolio/index.html",
+    "main.6c9c27d4.css.map": "/Benmarz10/BensReactPortfolio/static/css/main.6c9c27d4.css.map",
+    "main.5fdaa12b.js.map": "/Benmarz10/BensReactPortfolio/static/js/main.5fdaa12b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c9c27d4.css",
+    "static/js/main.5fdaa12b.js"
+  ]
+}
