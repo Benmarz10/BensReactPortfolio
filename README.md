@@ -1,7 +1,7 @@
 # BensReactPortfolio
   ![badge](https://img.shields.io/badge/license-MIT-blue.svg)
   ## Description
-  This is a developer portfolio created with React App and deployed <a href = "https://benmarz10.github.io/BensReactPortfolio/"> here </a>
+  This is a developer portfolio created with React App and deployed <a href = "https://benmarz10.github.io/BensReactPortfolio/" target="_blank"> here </a>
 
   ![Image](/public/images/Portfolio.jpg)
 
